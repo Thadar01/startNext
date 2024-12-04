@@ -2,9 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+/*should not use for custome class and id design*/
 
 
 
 body{
-  margin: 10px;
+  color:rgb(var(--foreground-rgb));  
+ padding: 1rem;
 }
